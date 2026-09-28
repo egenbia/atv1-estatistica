@@ -10,4 +10,3 @@ dados = {
                 "Android","Windows","Android","iOS","Android"],
 }
 df = pd.DataFrame(dados)
-a
